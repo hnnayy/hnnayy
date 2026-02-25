@@ -62,7 +62,7 @@ From a cross-platform GIS mobile app deployed for PLN field engineers, to an ent
 |---|---|---|
 | 🗺️ **PLN JagaGRID** | Flutter · Firebase · GIS | Real-time GPS field reporting for PLN engineers |
 | 📄 **Document Management System** | CodeIgniter 4 · JWT · RBAC | Enterprise auth & multi-level approval workflows |
-| 🗳️ **Population Mapping Dashboard** | React · Firebase | Reduced manual data entry by **70%** |
+| 🗳️ **Population Mapping Dashboard** | React · Flask | Reduced manual data entry by **70%** |
 | 🔐 **Keystroke Dynamics Auth** | LSTM · TensorFlow | **92%** user identification accuracy |
 | 🏠 **House Price Prediction** | scikit-learn · Python | **18%** accuracy improvement over baseline |
 
