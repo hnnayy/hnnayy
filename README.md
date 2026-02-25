@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadia Mutia Hanin</h1>
 <h3 align="center">Fullstack & Mobile Developer </h3>
 <h4 align="center">Final-year Computer Engineering @ Telkom University · 🟢 Open to Work</h4>
----
 
 ## 🙋‍♀️ About Me
 
