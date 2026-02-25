@@ -2,11 +2,6 @@
 <h3 align="center">Fullstack & Mobile Developer · ML Enthusiast · GIS Systems</h3>
 <h4 align="center">Final-year Computer Engineering @ Telkom University · 🟢 Open to Work</h4>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=hnnayy&icon=0&color=0" alt="Profile Views"/>
-  </a>
-</p>
 
 ---
 
@@ -54,15 +49,6 @@ From a cross-platform GIS mobile app deployed for PLN field engineers, to an ent
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**ML & Data**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -100,14 +86,6 @@ From a cross-platform GIS mobile app deployed for PLN field engineers, to an ent
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hnnayy&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
----
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote"/>
 </p>
 
 ---
