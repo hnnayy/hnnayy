@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadia Mutia Hanin</h1>
-<h3 align="center">Fullstack & Mobile Developer · ML Enthusiast · GIS Systems</h3>
+<h3 align="center">Fullstack & Mobile Developer </h3>
 <h4 align="center">Final-year Computer Engineering @ Telkom University · 🟢 Open to Work</h4>
-
-
 ---
 
 ## 🙋‍♀️ About Me
@@ -71,25 +69,6 @@ From a cross-platform GIS mobile app deployed for PLN field engineers, to an ent
 | 🏠 **House Price Prediction** | scikit-learn · Python | **18%** accuracy improvement over baseline |
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hnnayy&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hnnayy&theme=default&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnnayy&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hnnayy&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
----
-
 <p align="center">
   <i>"Progress over perfection — it's a ha-bit."</i>
 </p>
